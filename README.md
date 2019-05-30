@@ -24,3 +24,8 @@ Credits:
 - [Networks tutorial](https://github.com/MridulS/pydata-networkx) @MridulS
 - [Flags images](https://github.com/linssen/country-flag-icons) @linssen
 - [Eurovision Data](https://eurovision.tv/story/the-results-eurovision-2018-dive-into-numbers)
+
+Papers:
+- Maximizing the spread of influence through a social network -  E. Tardos et al.
+- Efficient influence maximization in social networks - W. Chen et al.
+- Influence Maximization in Social Networks Through Scheduled Seeding - D. Goldenberg et al.
