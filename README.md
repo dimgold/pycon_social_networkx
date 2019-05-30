@@ -1,4 +1,5 @@
-# Social Network Analysis  -  From Graph Theory to Applications with Python
+# Social Network Analysis
+## From Graph Theory to Applications with Python
 ### [Dima Goldenberg](https://www.linkedin.com/in/dimgold/) - [PyCon Israel 2019](https://cfp.pycon.org.il/conference/talk/DNLWQC/)
 
 
