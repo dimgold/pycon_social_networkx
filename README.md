@@ -19,4 +19,7 @@ Finally we will go over code examples of practical use-cases such as visualizati
 
 Credits:
 
-- [Game of thrones dataset](https://github.com/jeffreylancaster/game-of-thrones)
+- [Game of thrones dataset](https://github.com/jeffreylancaster/game-of-thrones) @jeffreylancaster
+- [Networks tutorial](https://github.com/MridulS/pydata-networkx) @MridulS
+- [Flags images](https://github.com/linssen/country-flag-icons) @linssen
+- [Eurovision Data](https://eurovision.tv/story/the-results-eurovision-2018-dive-into-numbers)
