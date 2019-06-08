@@ -2,6 +2,8 @@
 ## From Graph Theory to Applications with Python
 ### [Dima Goldenberg](https://www.linkedin.com/in/dimgold/) - [PyCon Israel 2019](https://cfp.pycon.org.il/conference/talk/DNLWQC/)
 
+![](https://github.com/dimgold/pycon_social_networkx/blob/master/images/eurovision2018_map.png)
+
 
 This repository contains social network analyses code examples for PyCon 2019 talk.
 
