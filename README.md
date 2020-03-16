@@ -31,6 +31,7 @@ Credits:
 - [Eurovision Data](https://eurovision.tv/story/the-results-eurovision-2018-dive-into-numbers)
 
 Papers:
-- Maximizing the spread of influence through a social network -  E. Tardos et al.
-- Efficient influence maximization in social networks - W. Chen et al.
-- Influence Maximization in Social Networks Through Scheduled Seeding - D. Goldenberg et al.
+- [Influence Maximization in Social Networks Through Scheduled Seeding - D. Goldenberg et al.](http://bigdatalab.tau.ac.il/wp-content/uploads/2018/07/timing-matters.pdf)
+- [Maximizing the spread of influence through a social network -  E. Tardos et al.](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf)
+- [Efficient influence maximization in social networks - W. Chen et al.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/weic-kdd09_influence.pdf)
+
