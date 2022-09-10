@@ -23,6 +23,13 @@ This talk will cover the theory of social network analysis, with a short introdu
 
 Finally we will go over code examples of practical use-cases such as visualization with ``matplotlib``, social-centrality analysis and influence maximization for information spread and social marketing.
 
+
+If you wish to cite this resource in your academic research, please use the following format:
+
+*Goldenberg, Dmitri. “Social network analysis: From graph theory to applications with python.” PyCon 2019 — 3rd Israeli National Python Conference, Israel, 2019. arXiv preprint arXiv:2102.10014 (2021).*
+
+
+
 Credits:
 
 - [Game of thrones dataset](https://github.com/jeffreylancaster/game-of-thrones) @jeffreylancaster
