@@ -2,7 +2,7 @@
 ## From Graph Theory to Applications with Python
 ### [Dima Goldenberg](https://www.linkedin.com/in/dimgold/) - [PyCon Israel 2019](https://cfp.pycon.org.il/conference/talk/DNLWQC/)
 
-### [Check out Medium blogpost](https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7) or [Watch the video](https://www.youtube.com/watch?v=px7ff2_Jeqw) from PyCon:
+### [Check out Medium blogpost](https://medium.com/data-science/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7) or [Watch the video](https://www.youtube.com/watch?v=px7ff2_Jeqw) from PyCon:
 [![Watch the video](https://i.ibb.co/ykSsNSP/Screen-Shot-2019-06-24-at-3-40-51-PM.png)](https://www.youtube.com/watch?v=px7ff2_Jeqw)
 
 [https://www.youtube.com/watch?v=px7ff2_Jeqw](https://www.youtube.com/watch?v=px7ff2_Jeqw)
